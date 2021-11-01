@@ -3,15 +3,11 @@
 - 🔭 I’m currently working on Development of MonsterLifeServer
 - 🌱 I'm currently learning:
   - Java
-  - Python
-    - Discord.py
+  - Python(discord.py)
   - HTML
   - PHP
-  - JavaScript
-    - jQuery
-    - Node.js
-  - CSS
-    - Bootstrap
+  - JavaScript(jQuery,Node.js)
+  - CSS(Bootstrap)
 - 🤔 I’m looking for help with... nothing?
 - 💬 Ask me about ...
 - 📫 How to reach me: 
