@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**Monster2408/Monster2408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Development of MonsterLifeServer
+- 🌱 I'm currently learning:
+  - Java
+  - Python
+    - Discord.py
+  - HTML
+  - PHP
+  - JavaScript
+    - jQuery
+    - Node.js
+  - CSS
+    - Bootstrap
+- 🤔 I’m looking for help with... nothing?
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+  - Discord: Monster2408#8936
+  - Twitter: https://twitter.com/monster_2408
+- ⚡ Fun stuff:
+  - MonsterLifeServer
+  - Minecraft
+  - Discord BOT
+- 🔗 Links about me:
+  - **__MonsterLifeServer__**
+    - [YouTube](https://youtube.mlserver.xyz)
+    - [Twitter](https://twitter.mlserver.xyz)
+    - [Blog](https://www.mlserver.xyz/blog/)
+    - [WIKI](https://wiki.mlserver.xyz/)
+    - [Main Discord Group](https://discord.mlserver.xyz/)
