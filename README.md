@@ -8,6 +8,7 @@
   - PHP
   - JavaScript(jQuery,Node.js)
   - CSS(Bootstrap)
+  - Shell
 - 🤔 I’m looking for help with... nothing?
 - 💬 Ask me about ...
 - 📫 How to reach me: 
