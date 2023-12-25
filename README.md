@@ -30,5 +30,11 @@
     - [My Web Site](https://monster2408.com/)
 - ⚡ Status
 
-[![Monster2408's github stats](https://github-readme-stats.vercel.app/api?username=Monster2408&hide=contribs&count_private=true&show_icons=true)](https://github.com/Monster2408/)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monster2408&layout=compact)](https://github.com/Monster2408/)
+<!-- [![Monster2408's github stats](https://github-readme-stats.vercel.app/api?username=Monster2408&hide=contribs&count_private=true&show_icons=true)](https://github.com/Monster2408/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monster2408&layout=compact)](https://github.com/Monster2408/) -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monster2408&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monster2408&theme=github_dark&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Monster2408&theme=github_dark&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Monster2408&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Monster2408&theme=github_dark&utcOffset=8)
